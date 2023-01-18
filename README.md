@@ -1,2 +1,1 @@
-"# js-kurs-kalkulator-inflacije" 
 The project is missing a folder called 'img' with a background image called 'bg.jpg'
